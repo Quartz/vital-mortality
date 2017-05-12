@@ -1,0 +1,7 @@
+.DS_Store
+.RData
+.Rhistory
+.Rproj.user
+*.csv
+*.csv.gz
+data
